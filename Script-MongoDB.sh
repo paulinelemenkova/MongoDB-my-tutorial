@@ -2,7 +2,7 @@
 berw install mongodb
 # launch
 mongo
-# https://metanit.com/nosql/mongodb/2.2.php
+# Tutorial source: https://metanit.com/nosql/mongodb/2.2.php
 #  в качестве текущей БД будет установлена БД info.
 use info
 # вывести названия всех имеющихся бд на консоль:
